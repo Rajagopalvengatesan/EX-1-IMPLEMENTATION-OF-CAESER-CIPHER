@@ -1,9 +1,6 @@
-## Name : RAJA GOPAL V
-
-## Register Number : 212223240134
-
-
 ## Exp:1 IMPLEMENTATION OF CAESER CIPHER 
+### Name : RAJA GOPAL V
+### Registr Number :  212223240134
 
 ## AIM: 
 To encrypt and decrypt the given message by using Caeser Cipher encryption algorithm. 
